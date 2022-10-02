@@ -63,17 +63,17 @@ export default function Home() {
     return (
       <>
         <Head>
-          <meta property="og:title" content="Ulya &amp; Beni" />
-          <meta name="twitter:title" content="Ulya &amp; Beni" />
+          <meta property="og:title" content="Ulya &amp; Farid" />
+          <meta name="twitter:title" content="Ulya &amp; Farid" />
 
-          <meta name="description" content="The Wedding of Ulya &amp; Beni" />
+          <meta name="description" content="The Wedding of Ulya &amp; Farid" />
           <meta
             property="og:description"
-            content="The Wedding of Ulya &amp; Beni"
+            content="The Wedding of Ulya &amp; Farid"
           />
           <meta
             name="twitter:description"
-            content="The Wedding of Ulya &amp; Beni"
+            content="The Wedding of Ulya &amp; Farid"
           />
 
           <meta
@@ -87,7 +87,7 @@ export default function Home() {
 
           <link rel="icon" href="/asset/bouquet.png" />
 
-          <title>Ulya &amp; Beni</title>
+          <title>Ulya &amp; Farid</title>
         </Head>
         <CSSTransition
           in={displayWelcomePage}
@@ -106,17 +106,17 @@ export default function Home() {
   return (
     <div className="home-wrapper">
       <Head>
-        <meta property="og:title" content="Ulya &amp; Beni" />
-        <meta name="twitter:title" content="Ulya &amp; Beni" />
+        <meta property="og:title" content="Ulya &amp; Farid" />
+        <meta name="twitter:title" content="Ulya &amp; Farid" />
 
-        <meta name="description" content="The Wedding of Ulya &amp; Beni" />
+        <meta name="description" content="The Wedding of Ulya &amp; Farid" />
         <meta
           property="og:description"
-          content="The Wedding of Ulya &amp; Beni"
+          content="The Wedding of Ulya &amp; Farid"
         />
         <meta
           name="twitter:description"
-          content="The Wedding of Ulya &amp; Beni"
+          content="The Wedding of Ulya &amp; Farid"
         />
 
         <meta
@@ -130,7 +130,7 @@ export default function Home() {
 
         <link rel="icon" href="/asset/bouquet.png" />
 
-        <title>Ulya &amp; Beni</title>
+        <title>Ulya &amp; Farid</title>
       </Head>
       {/* <audio
         src="/sound/beautiful_in_white.mp3"
