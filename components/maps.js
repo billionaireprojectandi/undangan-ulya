@@ -9,7 +9,7 @@ function Maps() {
         <div className="gmap">
           <div className="gmap_canvas" data-aos="zoom-in-up">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.510886491793!2d107.0217775!3d-6.1961217999999985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6989448654c9a7%3A0x5b3835a23d9493f8!2sGg.%20Nuri%20VI%2C%20Bahagia%2C%20Kec.%20Babelan%2C%20Kabupaten%20Bekasi%2C%20Jawa%20Barat%2017121!5e0!3m2!1sid!2sid!4v1660370590774!5m2!1sid!2sid"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3958.876253855963!2d110.28119439999999!3d-7.1403056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x349c7a8cdfb0603d!2zN8KwMDgnMjUuMSJTIDExMMKwMTYnNTIuMyJF!5e0!3m2!1sen!2sid!4v1666426334405!5m2!1sen!2sid"
               style={{ border: 0 }}
               allowFullScreen
               loading="lazy"
@@ -22,7 +22,7 @@ function Maps() {
             // href="https://goo.gl/maps/JTubxLm8Fcjesq5Q6"
             onClick={() =>
               window.open(
-                "https://goo.gl/maps/FfzFbSo96gVoSoJE9",
+                "https://goo.gl/maps/tQXW4PJX2x3FQHbF6",
                 "_blank",
                 "noopener,noreferrer"
               )

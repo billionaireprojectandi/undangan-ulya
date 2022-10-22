@@ -154,7 +154,7 @@ function Ucapan() {
             position: relative;
             border-radius: 0.25rem;
             background-color: rgba(255, 255, 255, 0.75);
-            height: 16rem;
+            height: 30rem;
             width: 100%;
             overflow: scroll;
           }

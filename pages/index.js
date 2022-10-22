@@ -132,12 +132,12 @@ export default function Home() {
 
         <title>Ulya &amp; Farid</title>
       </Head>
-      {/* <audio
+      <audio
         src="/sound/beautiful_in_white.mp3"
         autoPlay={true}
         ref={audioRef}
         loop={true}
-      /> */}
+      />
       <div className="home">
         {/* <div className="image-top">
           <img src="/asset/corner-flower-2.png" alt="corner-flower-2.png" />
