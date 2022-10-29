@@ -37,7 +37,7 @@ function CoupleDetails(props) {
             <div className="couple-parent" data-aos="zoom-in-up">
               <p>Bapak Moh. Zainuddin</p>
               <p>dan</p>
-              <p>Ibu Yuniwati</p>
+              <p>Ibu Yuniwati (Alm)</p>
             </div>
           </div>
           {/* <div className="love-story">

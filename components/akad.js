@@ -18,7 +18,7 @@ function Akad() {
               <p>Pukul:</p>
             </div>
             <div>
-              <p>{"06:30 - 09:00"} WIB</p>
+              <p>{"11:00 - Selesai"} WIB</p>
             </div>
           </div>
           <div className="tanggal" data-aos="zoom-in-up">
