@@ -13,7 +13,7 @@ function Resepsi() {
           <p>Resepsi</p>
         </div>
         <div className="sesi" data-aos="zoom-in-up">
-          <p>09:30 - Selesai</p>
+          <p>11:00 - Selesai</p>
         </div>
         <div className="tanggal" data-aos="zoom-in-up">
           <div className="tanggal-left-section">
