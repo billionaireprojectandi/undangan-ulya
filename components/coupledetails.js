@@ -1,7 +1,10 @@
+import { useRouter } from "next/router";
 import Flower from "./flower";
 /* eslint-disable jsx-a11y/alt-text */
 /* eslint-disable @next/next/no-img-element */
 function CoupleDetails(props) {
+  const router = useRouter();
+  const { bpk } = router.query;
   return (
     <div id="couple">
       <div className="couple container" data-aos="fade-up">
@@ -19,7 +22,7 @@ function CoupleDetails(props) {
               <p>Putri dari</p>
             </div>
             <div className="couple-parent" data-aos="zoom-in-up">
-              <p>Bapak Arif Arfan</p>
+              {bpk ? <p>Bapak {bpk}</p> : <p>Bapak Edy Rofiquddin</p>}
               <p>dan</p>
               <p>Ibu Setyaningsih</p>
             </div>
